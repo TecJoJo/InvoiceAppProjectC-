@@ -1,0 +1,17 @@
+﻿<Window x:Class="LaskutusProject.GetLaskuByIdWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LaskutusProject"
+        mc:Ignorable="d"
+        MinHeight="250" MinWidth="400" MaxHeight="250" MaxWidth="400"
+        Title="Hae Lasku" Height="250" Width="400">
+    <Grid Margin="0,0,0,5">
+        <Button Content="Hae" HorizontalAlignment="Left" Margin="128,0,0,0" VerticalAlignment="Center" Height="22" Width="67" Click="Hae_Click"/>
+        <Button Content="Peruuta" HorizontalAlignment="Left" Margin="215,0,0,0" VerticalAlignment="Center" Height="22" Width="67" Click="Peruuta_Click"/>
+        <ComboBox x:Name="LaskuMenu" HorizontalAlignment="Left" Margin="178,59,0,0" VerticalAlignment="Top" Width="120" SelectedIndex="0" DisplayMemberPath="LaskuNumero"/>
+        <Label Content="LaskunNumero:" HorizontalAlignment="Left" Margin="80,55,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

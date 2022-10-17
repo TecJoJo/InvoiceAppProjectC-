@@ -1,0 +1,288 @@
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.exe
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.deps.json
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.runtimeconfig.json
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.dll
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.pdb
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLite-net.dll
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLitePCLRaw.nativelibrary.dll
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.csproj.AssemblyReference.cache
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\AboutWindow.g.cs
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\GetLaskuByIdWindow.g.cs
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LisaaTuote.g.cs
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\Tulostus.g.cs
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\App.g.cs
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject_MarkupCompile.cache
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject_MarkupCompile.lref
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\AboutWindow.baml
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\GetLaskuByIdWindow.baml
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LisaaTuote.baml
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\MainWindow.baml
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\Tulostus.baml
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.g.resources
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.AssemblyInfoInputs.cache
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.AssemblyInfo.cs
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.csproj.CoreCompileInputs.cache
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.csproj.CopyComplete
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.dll
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\refint\LaskutusProject.dll
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.pdb
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.genruntimeconfig.cache
+D:\projekti\prjekti061022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\ref\LaskutusProject.dll
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.exe
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.deps.json
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.runtimeconfig.json
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.dll
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.pdb
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLite-net.dll
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLitePCLRaw.nativelibrary.dll
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.csproj.AssemblyReference.cache
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\AboutWindow.g.cs
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\GetLaskuByIdWindow.g.cs
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LisaaTuote.g.cs
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\Tulostus.g.cs
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject_MarkupCompile.cache
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject_MarkupCompile.lref
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\AboutWindow.baml
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\GetLaskuByIdWindow.baml
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LisaaTuote.baml
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\Tulostus.baml
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.g.resources
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.AssemblyInfoInputs.cache
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.AssemblyInfo.cs
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.csproj.CoreCompileInputs.cache
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.csproj.CopyComplete
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.dll
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\refint\LaskutusProject.dll
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.pdb
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.genruntimeconfig.cache
+C:\Users\malin\Desktop\BaseMain\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\ref\LaskutusProject.dll
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.exe
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.deps.json
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.runtimeconfig.json
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.dll
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.pdb
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLite-net.dll
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLitePCLRaw.nativelibrary.dll
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.csproj.AssemblyReference.cache
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\AboutWindow.g.cs
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\GetLaskuByIdWindow.g.cs
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LisaaTuote.g.cs
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\Tulostus.g.cs
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject_MarkupCompile.cache
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject_MarkupCompile.lref
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\AboutWindow.baml
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\GetLaskuByIdWindow.baml
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LisaaTuote.baml
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\Tulostus.baml
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.g.resources
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.AssemblyInfoInputs.cache
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.AssemblyInfo.cs
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.csproj.CoreCompileInputs.cache
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.csproj.CopyComplete
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.dll
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\refint\LaskutusProject.dll
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.pdb
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.genruntimeconfig.cache
+C:\Users\tllabra\Desktop\Uusi kansio\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\ref\LaskutusProject.dll
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.exe
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.deps.json
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.runtimeconfig.json
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.dll
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.pdb
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLite-net.dll
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLitePCLRaw.nativelibrary.dll
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.csproj.AssemblyReference.cache
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\AboutWindow.g.cs
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\GetLaskuByIdWindow.g.cs
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LisaaTuote.g.cs
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\Tulostus.g.cs
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\App.g.cs
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject_MarkupCompile.cache
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject_MarkupCompile.lref
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\AboutWindow.baml
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\GetLaskuByIdWindow.baml
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LisaaTuote.baml
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\MainWindow.baml
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\Tulostus.baml
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.g.resources
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.AssemblyInfoInputs.cache
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.AssemblyInfo.cs
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.csproj.CoreCompileInputs.cache
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.csproj.CopyComplete
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.dll
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\refint\LaskutusProject.dll
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.pdb
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.genruntimeconfig.cache
+D:\projekti\project_main_131022\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\ref\LaskutusProject.dll
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.exe
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.deps.json
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.runtimeconfig.json
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.dll
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.pdb
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLite-net.dll
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLitePCLRaw.nativelibrary.dll
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.csproj.AssemblyReference.cache
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\AboutWindow.g.cs
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\GetLaskuByIdWindow.g.cs
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LisaaTuote.g.cs
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\Tulostus.g.cs
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\App.g.cs
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject_MarkupCompile.cache
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject_MarkupCompile.lref
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\AboutWindow.baml
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\GetLaskuByIdWindow.baml
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LisaaTuote.baml
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\MainWindow.baml
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\Tulostus.baml
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.g.resources
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.AssemblyInfoInputs.cache
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.AssemblyInfo.cs
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.csproj.CoreCompileInputs.cache
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.csproj.CopyComplete
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.dll
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\refint\LaskutusProject.dll
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.pdb
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.genruntimeconfig.cache
+D:\projekti\project_main_131022\test\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\ref\LaskutusProject.dll
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.exe
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.deps.json
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.runtimeconfig.json
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.dll
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\LaskutusProject.pdb
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLite-net.dll
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.csproj.AssemblyReference.cache
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\AboutWindow.g.cs
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\GetLaskuByIdWindow.g.cs
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LisaaTuote.g.cs
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\Tulostus.g.cs
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject_MarkupCompile.cache
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject_MarkupCompile.lref
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\AboutWindow.baml
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\GetLaskuByIdWindow.baml
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LisaaTuote.baml
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\Tulostus.baml
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.g.resources
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.AssemblyInfoInputs.cache
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.AssemblyInfo.cs
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.csproj.CoreCompileInputs.cache
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.csproj.CopyComplete
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.dll
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\refint\LaskutusProject.dll
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.pdb
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\LaskutusProject.genruntimeconfig.cache
+C:\Users\Juhis\Documents\Laskutusvittu\jepjep\Laskutus_Einstein\Työprojekti\LaskutusProject\obj\Debug\net6.0-windows\ref\LaskutusProject.dll
